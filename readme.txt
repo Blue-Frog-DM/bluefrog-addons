@@ -23,6 +23,8 @@ A collection of extra elements for WPBakery Page Builder. It was made for the bl
 1. Click Activate to activate it.
 
 == Changelog ==
+= 1.0.1 =
+* Trial release.
 
 = 1.0 =
 * Initial release.
