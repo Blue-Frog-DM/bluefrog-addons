@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Bluefrog Addons
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Blue Frog Agency
 	Author URI: https://bluefrogdm.com
 */
@@ -28,7 +28,7 @@ final class Bluefrog_Addons {
 	 * Defines constants
 	 */
 	public function define_constants() {
-		define( 'BLUEFROG_ADDONS_VER', '1.0.0' );
+		define( 'BLUEFROG_ADDONS_VER', '1.0.1' );
 		define( 'BLUEFROG_ADDONS_DIR', plugin_dir_path( __FILE__ ) );
 		define( 'BLUEFROG_ADDONS_URL', plugin_dir_url( __FILE__ ) );
 	}
