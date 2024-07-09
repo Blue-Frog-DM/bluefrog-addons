@@ -24,5 +24,8 @@ A collection of extra elements for WPBakery Page Builder. It was made for the bl
 
 == Changelog ==
 
+= 1.1 =
+* Trial Release.
+
 = 1.0 =
 * Initial release.
